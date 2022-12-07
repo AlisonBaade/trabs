@@ -152,5 +152,24 @@
 }
 
 .width-p{
-    width: 60%;
+    width: 70%;
+}
+
+.img-m-r{
+    margin-right: 20%;
+    width: 600px;
+}
+
+.b-work{
+    display: flex;
+    justify-content: center;
+}
+
+.a-more-work{
+    margin-top: 40px;
+    font-size: 30px;
+    border: 1px solid black;
+    border-radius: 50px;
+    padding: 15px;
+    color: black;
 }
